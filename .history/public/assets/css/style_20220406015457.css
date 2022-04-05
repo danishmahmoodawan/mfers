@@ -22,6 +22,9 @@ h1{
  position: relative;
 
 }
+.roadmap img{
+
+}
 .headig_set{
     margin-top: 35%;
     margin-bottom: 19%;
@@ -30,7 +33,6 @@ h1{
 background: #94E3D5;
 mix-blend-mode: multiply;
 width: 90%;
-margin: 0 auto;
 }
 .minted_sec{
 height: 15%;
@@ -203,7 +205,7 @@ h1{
 }
 
 @media only screen and (max-width: 1024px) and (min-width: 768px) {
-    
+
     #first{
         order: 1
             }
@@ -253,18 +255,9 @@ order: 3;
     body, html{
         overflow-x: hidden;
     }
-    .supply_box, .mint_box{
-        width: 320px;
-    }
-    .cent_icon{
-        line-height: 45px;
-    }
     .mfer_row{
 margin-left: 2%;
 margin-right: 2%;
-    }
-    .minted_sec{
-        height: 30%;
     }
     .main_divider{
         height: 10%;
@@ -273,9 +266,6 @@ margin-right: 2%;
         margin-top: 19%;
         margin-bottom: 7%;
     }
-    .minted_btn{
-    margin-top: 8%;
-    margin-bottom: 18%;}
     #first{
         order: 1
             }
@@ -303,8 +293,4 @@ margin: 10% 2%;
             .paraset br{
 display: none;
             }
-            
-.roadmap img{
-    width: 100%;
-    }
 }

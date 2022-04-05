@@ -101,15 +101,13 @@ urna. Praesent nec accumsan urna.
 </p>
 				</div>
                 </div>
-                <div className="row roadmap">
-                <div className="col-12 text-center mt-5 mb-5 ">
+                <div className="row">
+                <div className="col-12 text-center mt-5 mb-5">
                                     <img src="../assets/images/roadmap.png" />
                 </div>
                 </div>
-
-
                 </div>
-
+                
     </section>
    	</>
   );

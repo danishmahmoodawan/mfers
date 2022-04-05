@@ -101,12 +101,21 @@ urna. Praesent nec accumsan urna.
 </p>
 				</div>
                 </div>
-                <div className="row roadmap">
-                <div className="col-12 text-center mt-5 mb-5 ">
+                <div className="row">
+                <div className="col-12 text-center mt-5 mb-5">
                                     <img src="../assets/images/roadmap.png" />
                 </div>
                 </div>
 
+<div className="row token_box ">
+                <div className="col-12 text-center mt-5 mb-5">
+ <div className=""><span>Token ID: </span></div>
+ <img src="../assets/images/line-purple.png" />
+ <div className="tokeneth"><span>move to
+ethereum </span></div>
+ <img src="../assets/images/line-purple.png" />
+                </div>
+                </div>
 
                 </div>
 

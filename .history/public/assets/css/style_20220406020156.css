@@ -264,7 +264,7 @@ margin-left: 2%;
 margin-right: 2%;
     }
     .minted_sec{
-        height: 30%;
+        
     }
     .main_divider{
         height: 10%;
@@ -273,9 +273,6 @@ margin-right: 2%;
         margin-top: 19%;
         margin-bottom: 7%;
     }
-    .minted_btn{
-    margin-top: 8%;
-    margin-bottom: 18%;}
     #first{
         order: 1
             }
